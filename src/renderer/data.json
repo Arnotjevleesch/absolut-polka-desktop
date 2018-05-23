@@ -1,0 +1,20 @@
+{"notes": [
+        { "name":"A/3", "frequency":220.0, "ymin":128, "ymax":132 },
+        { "name":"B/3", "frequency":246.9, "ymin":122, "ymax":128 },
+        { "name":"C/4", "frequency":261.6, "ymin":118, "ymax":122 },
+        { "name":"D/4", "frequency":293.7, "ymin":112, "ymax":118 },
+        { "name":"E/4", "frequency":329.6, "ymin":108, "ymax":112 },
+        { "name":"F/4", "frequency":349.2, "ymin":102, "ymax":108 },
+        { "name":"G/4", "frequency":392.0, "ymin":98, "ymax":102 },
+        { "name":"A/4", "frequency":440.0, "ymin":92, "ymax":98 },
+        { "name":"B/4", "frequency":493.9, "ymin":88, "ymax":92 },
+        { "name":"C/5", "frequency":523.3, "ymin":82, "ymax":88 },
+        { "name":"D/5", "frequency":587.3, "ymin":78, "ymax":82 },
+        { "name":"E/5", "frequency":659.3, "ymin":72, "ymax":78 },
+        { "name":"F/5", "frequency":698.5, "ymin":68, "ymax":72 },
+        { "name":"G/5", "frequency":784.0, "ymin":62, "ymax":68 },
+        { "name":"A/5", "frequency":880.0, "ymin":58, "ymax":62 },
+        { "name":"B/5", "frequency":987.8, "ymin":52, "ymax":58 },
+        { "name":"C/6", "frequency":1047.0, "ymin":48, "ymax":52 }
+    ]
+}
